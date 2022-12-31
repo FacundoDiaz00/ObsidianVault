@@ -1,0 +1,7 @@
+![[8086]]
+![[Ensamblador]]
+![[Input-Ouput y buses]]
+[[controla]]
+![[Interrupciones]]
+![[Pipeline]]
+![[Jerarquia de Memoria]]

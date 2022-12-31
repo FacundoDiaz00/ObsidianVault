@@ -1,0 +1,51 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:\"Arquitetctura en Comp\"",
+      "color": {
+        "a": 1,
+        "rgb": 10263534
+      }
+    },
+    {
+      "query": "path:BBDD",
+      "color": {
+        "a": 1,
+        "rgb": 14971506
+      }
+    },
+    {
+      "query": "path:Programacion",
+      "color": {
+        "a": 1,
+        "rgb": 11110340
+      }
+    },
+    {
+      "query": "path:/",
+      "color": {
+        "a": 1,
+        "rgb": 10019285
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.401062416998672,
+  "repelStrength": 9.11960003124756,
+  "linkStrength": 0.671041324896493,
+  "linkDistance": 30,
+  "scale": 0.36783833776247393,
+  "close": true
+}

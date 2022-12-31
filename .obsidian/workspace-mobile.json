@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "df83fd9e684e4c31",
+    "type": "split",
+    "children": [
+      {
+        "id": "bef4873c155d3079",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67850cd33cd47606",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetctura en Comp/ASSEMBLER/Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "532b8dc636602c93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetctura en Comp/ASSEMBLER/Ensamblador.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90c7230a72ff8d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arquitetctura en Comp/Arqui.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6fa404ec07f468ce",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f784f3bb94c1028b",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "54f4e7583c3c3cbf",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "4d8844b86ecda335",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4826b88b97161874",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "e551d06fb2c02d9e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "dfd7c8042d6c8212",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Arquitetctura en Comp/Arqui.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e81e5dca53301ec8",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Arquitetctura en Comp/Arqui.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0da0425938fd89d4",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Arquitetctura en Comp/Arqui.md"
+          }
+        }
+      },
+      {
+        "id": "6cfb3c05c386125d",
+        "type": "leaf",
+        "state": {
+          "type": "online.larslockefeer.obsidian-plugin-todo",
+          "state": {}
+        }
+      },
+      {
+        "id": "7ed90ca4e314b20e",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "90c7230a72ff8d49",
+  "lastOpenFiles": [
+    "BBDD/Diseño Relacional/Algoritmos de diseño.md",
+    "BBDD/Diseño Relacional/Normalizacion.md",
+    "Arquitetctura en Comp/ASSEMBLER/Ensamblador.md",
+    "Arquitetctura en Comp/Van Neuman y partes/8086.md",
+    "Arquitetctura en Comp/Arqui.md",
+    "Arquitetctura en Comp/ASSEMBLER/Input-Ouput y buses.md",
+    "Arquitetctura en Comp/Van Neuman y partes/ArqVanNeuman.md",
+    "Arquitetctura en Comp/ASSEMBLER/Lab.md",
+    "Inicio.md",
+    "BBDD/BBDD.md"
+  ]
+}
